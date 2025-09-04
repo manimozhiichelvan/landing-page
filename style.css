@@ -2,3 +2,33 @@ ul,li{
     display: inline;
     
 }
+ul,li,a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+    display: inline;
+}
+div{
+    background-color: transparent;
+    padding: 20px;
+    color: black;
+
+    
+}
+ul{
+    margin-left: 1200px;
+}
+
+.welcome{
+    margin-top: 100px;
+}
+
+img{
+    height: ;
+}
+
+
+
+
+
